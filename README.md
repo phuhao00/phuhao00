@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning golang，unity,rust,c++
+- 🌱 I’m currently learning golang，unity，rust（sui,solana,move,anchor），c++
 -
 
 
