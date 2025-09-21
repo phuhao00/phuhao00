@@ -54,18 +54,7 @@
 - 🛠️ Contributing to **open-source** blockchain projects
 - 🛠️ 为**开源**区块链项目做贡献
 
-## 📊 GitHub Stats | GitHub统计
-
-<div align="center">
-  
-![phuhao's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuhao00&layout=compact&theme=tokyonight)
-
-![phuhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuhao00&show_icons=true&theme=tokyonight)
-
-</div>
-
 ---
-
 <div align="center">
   <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
   <br>
