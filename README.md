@@ -1,16 +1,3 @@
-## 🚀 About Me | 关于我
-
-- 🔭 I'm a passionate developer exploring the intersection of **blockchain technology** and **game development**
-- 🔭 我是一名热情的开发者，专注于探索**区块链技术**与**游戏开发**的交集
-- 🌱 Currently diving deep into: **Golang**, **Unity**, **Rust** (Sui, Solana, Move, Anchor), **C++**
-- 🌱 目前深入学习：**Golang**、**Unity**、**Rust**（Sui、Solana、Move、Anchor）、**C++**
-- 💡 Interested in **DeFi**, **GameFi**, and **Web3** technologies
-- 💡 对**DeFi**、**GameFi**和**Web3**技术感兴趣
-- 🎯 Always eager to learn new technologies and contribute to open-source projects
-- 🎯 始终渴望学习新技术并为开源项目做贡献
-- ⚡ Fun fact: I love combining traditional game development with cutting-edge blockchain solutions
-- ⚡ 有趣的事实：我喜欢将传统游戏开发与前沿区块链解决方案相结合
-
 ## 🛠️ Tech Stack | 技术栈
 
 ### Languages | 编程语言
