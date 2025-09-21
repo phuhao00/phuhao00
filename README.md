@@ -1,10 +1,7 @@
 <div align="center">
   <h1>👋 Hi there, I'm phuhao!</h1>
-  <h1>👋 你好，我是phuhao！</h1>
-  <p><em>Passionate Developer | Blockchain Enthusiast | Game Developer</em></p>
-  <p><em>热情的开发者 | 区块链爱好者 | 游戏开发者</em></p>
+  <p><em> Game Developer| Blockchain Enthusiast | Passionate Developer</em></p>
 </div>
-
 ---
 
 ## 🚀 About Me | 关于我
@@ -37,22 +34,6 @@
 ### Game Development | 游戏开发
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### Tools & Technologies | 工具与技术
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 🎯 Current Focus | 当前专注
-
-- 🔗 Building **decentralized applications** on Solana and Sui networks
-- 🔗 在Solana和Sui网络上构建**去中心化应用**
-- 🎮 Developing **blockchain-based games** with Unity
-- 🎮 使用Unity开发**基于区块链的游戏**
-- 📚 Learning **Move programming language** for Sui ecosystem
-- 📚 学习Sui生态系统的**Move编程语言**
-- 🛠️ Contributing to **open-source** blockchain projects
-- 🛠️ 为**开源**区块链项目做贡献
 
 ---
 <div align="center">
