@@ -2,7 +2,6 @@
   <h1>👋 Hi there, I'm phuhao!</h1>
   <p><em> Game Developer| Blockchain Enthusiast | Passionate Developer</em></p>
 </div>
----
 
 ## 🚀 About Me | 关于我
 
@@ -34,17 +33,4 @@
 ### Game Development | 游戏开发
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-
----
-<div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
-  <br>
-  <em>"代码就像幽默。当你需要解释它时，说明它很糟糕。" - Cory House</em>
-</div>
-
----
-
-<div align="center">
-  <p>⭐ From <a href="https://github.com/phuhao00">phuhao00</a> | 来自 <a href="https://github.com/phuhao00">phuhao00</a></p>
-</div>
 
