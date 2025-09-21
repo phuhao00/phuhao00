@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>👋 Hi there, I'm phuhao!</h1>
-  <p><em> Game Developer| Blockchain Enthusiast | Passionate Developer</em></p>
-</div>
-
 ## 🚀 About Me | 关于我
 
 - 🔭 I'm a passionate developer exploring the intersection of **blockchain technology** and **game development**
