@@ -11,6 +11,13 @@
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=anchor&logoColor=white)
+![ERC-4377](https://img.shields.io/badge/ERC--4377-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Viem](https://img.shields.io/badge/Viem-FF6B6B?style=for-the-badge&logo=viem&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-FF6B6B?style=for-the-badge&logo=wagmi&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-FF6B6B?style=for-the-badge&logo=rainbowkit&logoColor=white)
+![DApp](https://img.shields.io/badge/DApp-FF6B6B?style=for-the-badge&logo=dapp&logoColor=white)
 
 ### Game Development | 游戏开发
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
