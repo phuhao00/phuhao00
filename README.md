@@ -18,6 +18,7 @@
 ![Wagmi](https://img.shields.io/badge/Wagmi-FF6B6B?style=for-the-badge&logo=wagmi&logoColor=white)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-FF6B6B?style=for-the-badge&logo=rainbowkit&logoColor=white)
 ![DApp](https://img.shields.io/badge/DApp-FF6B6B?style=for-the-badge&logo=dapp&logoColor=white)
+![go-ethereum](https://img.shields.io/badge/go--ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### Game Development | 游戏开发
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
