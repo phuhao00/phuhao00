@@ -9,6 +9,8 @@
 
 ### Blockchain & Web3 | 区块链与Web3
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=anchor&logoColor=white)
 ![ERC-4377](https://img.shields.io/badge/ERC--4377-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
