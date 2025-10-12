@@ -33,3 +33,7 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Mod](https://img.shields.io/badge/Mod-F39C12?style=for-the-badge&logo=wrench&logoColor=white)
 
+### 合作联系方式
+***QQ***:1559531623@qq.com
+***email***:hhaouhh@gmail.com
+***wechat***:phuhao2012
