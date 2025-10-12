@@ -27,4 +27,9 @@
 ### Game Development | 游戏开发
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![MMO](https://img.shields.io/badge/MMO-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white)
+![RPG](https://img.shields.io/badge/RPG-9B59B6?style=for-the-badge&logo=dice-d20&logoColor=white)
+![SLG](https://img.shields.io/badge/SLG-2ECC71?style=for-the-badge&logo=chess&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Mod](https://img.shields.io/badge/Mod-F39C12?style=for-the-badge&logo=wrench&logoColor=white)
 
